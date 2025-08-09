@@ -96,7 +96,7 @@ The future of Generative AI lies in expanding beyond single-modal capabilities t
 ## Conclusion
 Generative AI and Large Language Models represent a convergence of advanced neural architectures, massive datasets, and unprecedented computational resources. They have already reshaped the way humans interact with technology, bridging the gap between human language and machine understanding. While scaling has amplified their capabilities, it has also intensified the need for ethical oversight and responsible use. Understanding the foundational principles, architectural innovations, and broader implications of these systems is essential for guiding their development towards outcomes that benefit society as a whole.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c423f80c-f2fc-4511-91c8-785ed46ba08e" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c423f80c-f2fc-4511-91c8-785ed46ba08e" />
 
 
 
