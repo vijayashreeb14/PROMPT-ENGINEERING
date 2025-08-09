@@ -61,7 +61,7 @@ Step 7: Finalize and Export
 
 
 
-## Output
+## Output:
 
 ## Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs) USING CHATGPT:
 
